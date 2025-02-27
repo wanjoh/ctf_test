@@ -1,0 +1,7 @@
+{
+  "name": "random-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "postinstall": "cat ./flag.txt ./.gitignore"
+  }
+}
