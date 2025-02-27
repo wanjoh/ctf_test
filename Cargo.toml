@@ -1,0 +1,7 @@
+[package]
+name = "random-repo"
+version = "0.1.0"
+authors = ["random <you@example.com>"]
+edition = "2021"
+
+[dependencies]
